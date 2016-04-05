@@ -5,7 +5,7 @@ import { TimerComponent } from "./ng2-timer";
     selector: "my-app",
     template: `
         <h1>Angular 2 Timer Example</h1>
-        <ng-timer></ng-timer>
+        <ng-timer [format]="'mm:ss:ms'"></ng-timer>
     `,
     directives: [TimerComponent]
 })
