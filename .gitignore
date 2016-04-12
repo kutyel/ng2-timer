@@ -2,8 +2,10 @@
 node_modules
 npm-debug.log
 typings
-*.js
 *.js.map
+main.js
+ng2-timer.js
+app.component.js
 
 # OS generated files
 Thumbs.db
