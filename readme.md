@@ -6,13 +6,13 @@ Angular 2 Timer
 [![Downloads](https://img.shields.io/npm/dm/ng2-timer.svg?style=flat-square)](https://npmjs.com/packages/ng2-timer)
 [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/flaviocorpa)
 
-# Installation
+## Installation
 
 ```
 npm install --save ng2-timer
 ```
 
-# Usage
+## Usage
 
 ```ts
 import { Component } from "angular2/core";
